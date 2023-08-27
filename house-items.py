@@ -4,7 +4,7 @@ houseItems = {
     "item": "Xbox One",
     "Description": "Microsoft Xbox One Edition.",
     "Color": "Black",
-    "Edition": "1Tb"
+    "Space": "1Tb"
 }
 
 makeJson = json.dumps(houseItems)
